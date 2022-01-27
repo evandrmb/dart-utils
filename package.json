@@ -2,7 +2,7 @@
 	"name": "dart-utils",
 	"displayName": "dart-utils",
 	"description": "Export dart library files",
-	"publisher": "evandro",
+	"publisher": "evandrmb",
 	"repository": "https://github.com/evandrmb/dart-utils",
 	"version": "0.0.1",
 	"engines": {
